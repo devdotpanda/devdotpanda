@@ -1,5 +1,5 @@
 body { 
-    background-color: rgb(220, 222, 183);
+    background-color: rgb(216, 218, 187);
     font-family: 'Miracode';
     text-align: center;
     margin-top: 5%;
@@ -9,4 +9,9 @@ body {
 
 h1{
     color:rgb(89, 169, 106);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(85, 95, 56);
 }
